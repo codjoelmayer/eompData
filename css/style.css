@@ -5,3 +5,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.container h2 {
+    text-shadow: .4rem .4rem 1rem rgba(117, 149, 174, 0.7);
+}
