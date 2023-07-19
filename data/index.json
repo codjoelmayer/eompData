@@ -32,7 +32,7 @@
         },
         {
             "id": 2,
-            "year": 2019,
+            "year": 2020,
             "description": "I got my certificates on Advanced to Python",
             "place": "Data Camp",
             "type": "certificate",
@@ -40,7 +40,7 @@
         },
         {
             "id": 3,
-            "year": 2018,
+            "year": 2020,
             "description": "I got my certificates on Intro to Python",
             "place": "Data Camp",
             "type": "certificate",
@@ -60,7 +60,7 @@
             "description": "I got my diploma on Software Engineering",
             "place": "Tshwane University of Technology",
             "type": "Diploma",
-            "certificate": "https://joelmukanya-vue-portfoli-586ad.web.app/resume"
+            "certificate": "https://drive.google.com/file/d/10JQilglK4RoVToj_h739oYKUwH5vqTDp/view"
         },
         {
             "id": 6,
@@ -68,7 +68,7 @@
             "description": "Completed my course on PC Engineering",
             "place": "Havatech",
             "type": "Certificate",
-            "certificate": ""
+            "certificate": "https://drive.google.com/file/d/10MNxwM9wsyLl3pGVv9dBblD57-gSnjLR/view"
         },
         {
             "id": 7,
