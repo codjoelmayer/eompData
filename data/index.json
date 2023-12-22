@@ -6,15 +6,15 @@
         },
         {
             "title": "a youTuber",
-            "color": "rgb(157, 100, 0)"
+            "color": "rgb(0, 100, 0)"
         },
         {
             "title": "a founder and CEO at JT Devs",
-            "color": "rgb(153, 76, 150)"
+            "color": "rgb(0, 76, 10)"
         },
         {
             "title": "an IT Lecturer",
-            "color": "rgb(0, 172, 230)"
+            "color": "rgb(0, 150, 0)"
         }    
     ],
     "about": [
