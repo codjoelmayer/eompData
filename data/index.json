@@ -79,6 +79,56 @@
             "certificate": ""
         }
     ],
+    "experiences": [
+        {
+            "id": 1,
+            "companyName": "Lifechoices",
+            "jobTitle": "Senior Coding Lecturer",
+            "duration": "April 2022 - Present",
+            "duties": ["Prepare lessons", "Make sure contents are up to date", "Assisting junior lecturer" 
+            ]
+        },
+        {
+            "id": 2,
+            "companyName": "JT Devs",
+            "jobTitle": "Founder and CEO",
+            "duration": "Jan 2012 - Present",
+            "duties": ["Teach different programming languages", "Building website and API" 
+            ]
+        },
+        {
+            "id": 3,
+            "companyName": "CodeSpace Academy",
+            "jobTitle": "Programming Coach",
+            "duration": "Mar 2021 - Sep 2022",
+            "duties": ["Teach different programming languages" 
+            ]
+        },
+        {
+            "id": 4,
+            "companyName": "School Of IT",
+            "jobTitle": "IT Lecturer",
+            "duration": "Mar 2019 - May 2021",
+            "duties": ["Teach different programming languages" 
+            ]
+        },
+        {
+            "id": 5,
+            "companyName": "Geekulcha",
+            "jobTitle": "Software Developer",
+            "duration": "May 2013 - Dec 2013",
+            "duties": ["Building C# applications both desktop and mobile", "Testing applications" 
+            ]
+        },
+        {
+            "id": 6,
+            "companyName": "Microsoft",
+            "jobTitle": "Intern",
+            "duration": "Nov 2011 - Jan 2012",
+            "duties": ["Building mobile applications", "Testing applications" 
+            ]
+        }
+    ],
     "skills": [
         {
             "title": "Web Development",
