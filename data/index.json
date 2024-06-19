@@ -205,7 +205,7 @@
         {
             "name": "JS Portfolio",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
-            "image": "https://drive.google.com/uc?id=1WSNzPAD3c0q-uemc-Dxywf3Ur17xRE0-",
+            "image": "https://github.com/codjoelmayer/projectImages/blob/main/images/portfolio.png",
             "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
             "netlify": "https://joeljsportfolio.netlify.app/"
         }
